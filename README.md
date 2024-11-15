@@ -1,4 +1,4 @@
-# Transforming Health Navigation with a Trusted Copilot
+## Transforming Health Navigation with a Trusted Copilot
 
 ### Seu concierge de saúde pelo WhatsApp
 
